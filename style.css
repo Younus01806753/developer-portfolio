@@ -24,9 +24,10 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-color: purple;
+    background-image: linear-gradient(pink, purple);
     padding: 10px 40px;
     border-radius: 5%;
+    font-weight: 700px;
 }
 a{
     color: white;
