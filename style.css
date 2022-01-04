@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 
@@ -31,4 +32,9 @@ section{
 }
 a{
     color: white;
+}
+.top-banner{
+   background-image: url(Image/top\ banner.jpg);
+   width: 100%;
+   background-repeat: no-repeat;
 }
