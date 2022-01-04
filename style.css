@@ -11,3 +11,6 @@ h1{
 .purple-color{
      color: purple;
 }
+section{
+    display: flex;
+}
