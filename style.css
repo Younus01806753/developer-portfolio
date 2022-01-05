@@ -9,6 +9,10 @@ h1{
     color: rgb(15, 15, 15);
     font-size: 55px;
 }
+
+h2{
+    font-size: 40px;
+}
 .purple-color{
      color: purple;
 }
@@ -47,4 +51,20 @@ a{
     background-repeat: no-repeat;
     background-position: right;
     background-size: cover;
+}
+.experience-area{
+    background-image: url(Image/exp-png.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-ietem{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 35px;
+     
+    box-shadow: 10px 10px 40px gray;
 }
